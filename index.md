@@ -11,12 +11,10 @@ title: Školení GIT
     </center>
 </div>
 
-{% comment %}
 ## Aktualně vypsané termíny
 
-Momentálně žádné termíny vypsané nejsou. Pokud máte o školení zájem, můžete mě [kontaktovat](#kontakt), nebo si rovnou [objednejte školení](http://goo.gl/forms/NKcqvdYXkMvEY0qw2).
+- [__Workshop Gitu pro začátečníky__, 22. 2. 2017](https://sedu.cz/terminy/2017-02-22-workshop-gitu-pro-zacatecniky.html)
 
-{% endcomment %}
 
 ## O mně
 
