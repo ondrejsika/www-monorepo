@@ -57,7 +57,7 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 ## Cena
 
-Cena každého kurzu je __2000 CZK__ za osobu, v případě firemních školení mě kontaktujte pro nacenění.
+Cena každého kurzu je __2500 CZK__ za osobu, v případě firemních školení mě kontaktujte pro nacenění.
 
 Studenti, univerzity a neziskovky mají __50% slevu__.
 
