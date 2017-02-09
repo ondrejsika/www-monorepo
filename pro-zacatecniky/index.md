@@ -52,6 +52,6 @@ Fakturační údaje mi prosím pošlete do emailu. Je možné platit Bitcoinem.
 
 V případě jakýchkoliv dotazů mě neváhehte kontaktovat na:
 
-- <ondrej@skoleni-git.cz>
+- <info@sedu.cz>
 - <ondrej@ondrejsika.com>
 
