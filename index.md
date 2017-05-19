@@ -13,7 +13,7 @@ title: Školení GIT
 
 ## Aktualně vypsané termíny
 
-- [__Workshop Gitu pro začátečníky__, 22. 2. 2017](https://sedu.cz/terminy/2017-02-22-workshop-gitu-pro-zacatecniky.html)
+- [__Workshop Gitu pro začátečníky__, 21. 6. 2017](https://sedu.cz/terminy/2017-06-21-workshop-gitu-pro-zacatecniky.html)
 
 
 ## O mně
