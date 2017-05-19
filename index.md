@@ -72,7 +72,7 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 ### Ondrej Sika
 
 - <info@sedu.cz>
-- <https://ondrejsika.cz>
+- <https://bysika.cz>
 - +420 773 452 376
 
 Najdete mě také na sociálních sítích:
@@ -86,7 +86,7 @@ Více kontaktu na mě najdete na mém webu na stránce [kontakt](https://ondrejs
 
 ## Novinky
 
-Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://go.oxs.cz/skoleni-git-newsletter).
+Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://go.bysika.cz/newsletter).
 
 Nebo můžete sledovat [Facebook](https://facebook.com/skolenigit) a [Twitter](https://twitter.com/skolenigit).
 
