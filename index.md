@@ -13,7 +13,14 @@ title: Školení GIT
 
 ## Aktualně vypsané termíny
 
+- __Git__ (pro začátečníky a mírně pokročilé) - 15. 11. 2017
+- __Gitlab a Continues Integration__ (pro mírně a středně pokročilé) - 16. 11. 2017
+
+Pokud metě zájem, [registrujte se](/registrace.html) nebo mi napište email na <ondrej@ondrejsika.com>
+
+<!--
 - [__Workshop Gitu pro začátečníky__, 21. 6. 2017](https://sedu.cz/terminy/2017-06-21-workshop-gitu-pro-zacatecniky.html)
+-->
 
 
 ## O mně
