@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Školení GIT
+title: Školení Git
 ---
 
 <div class="header">
     <center>
-        <h1>Školení GIT</h1>
+        <h1>Školení Git</h1>
         <a href="/registrace.html" class="btn btn-large btn-success">Objednat školení</a>
         <a href="/#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
     </center>
@@ -25,7 +25,7 @@ Pokud metě zájem, [registrujte se](/registrace.html) nebo mi napište email na
 
 ## O mně
 
-Jmenuji se [Ondrej Sika](https://ondrejsika.com) a školím GIT a ekosystém okolo GITu. Kromě GITu nabízím další školení, která můžete najít na mém profesním webu [ondrejsika.cz](https://ondrejsika.cz).
+Jmenuji se [Ondrej Sika](https://ondrejsika.com) a školím GIT a ekosystém okolo GITu. Kromě GITu nabízím další školení, která můžete najít na mém profesním webu [bysika.cz](https://bysika.cz).
 
 > "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
 >
@@ -71,7 +71,7 @@ Dají se domluvit například skupinové slevy, ceny se za určitých okolností
 
 ## Mám zájem o školení
 
-Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objednejte školení](http://goo.gl/forms/NKcqvdYXkMvEY0qw2).
+Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objednejte školení](/registrace.html).
 
 
 ## Kontakt
@@ -82,10 +82,10 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 - <https://bysika.cz>
 - +420 773 452 376
 
-Najdete mě také na sociálních sítích:
+Jsen online na:
 
+- [Na volné noze](http://navolnenoze.cz/prezentace/ondrej-sika/)
 - [LinkedIn](https://www.linkedin.com/in/ondrejsika)
-- [Facebook](https://facebook.com/sikaondrej2)
 - [Twitter](https://twitter.com/ondrejsika)
 - [Github](https://github.com/ondrejsika)
 
