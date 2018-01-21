@@ -6,6 +6,9 @@ title: Školení Git
 <div class="header">
     <center>
         <h1>Školení Git</h1>
+        <span style="color: white;">by <a href="https://bysika.cz" style="color: white;"><b>Ondrej Sika</b></a> | <a href="https://skoleni.io" style="color: white;">Skoleni.io</a></span>
+        <br>
+        <br>
         <a href="/registrace.html" class="btn btn-large btn-success">Objednat školení</a>
         <a href="/#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
     </center>
