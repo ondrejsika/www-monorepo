@@ -1,6 +1,6 @@
-# [Skoleni Docker](https://skoleni-docker.cz)
+# [Skoleni Gitlab](https://skoleni-gitlab.cz)
 
-Static website for [skoleni-docker.cz](https://skoleni-docker.cz).
+Static website for [skoleni-gitlab.cz](https://skoleni-gitlab.cz).
 
 
 - author: Ondrej Sika <ondrej@ondrejsika.com>
