@@ -1,11 +1,10 @@
-# [Skoleni Docker](https://skoleni-docker.cz)
+# [Skoleni CI](https://skoleni-ci.cz)
 
-Static website for [skoleni-docker.cz](https://skoleni-docker.cz).
+    Ondrej Sika <ondrej@ondrejsika.com>
+    https://github.com/ondrejsika/skoleni-ci.cz
 
 
-- author: Ondrej Sika <ondrej@ondrejsika.com>
-- license: [MIT](https://ondrejsika.com/license/mit.txt)
-
+Static website for [skoleni-ci.cz](https://skoleni-ci.cz), part of Ondrej Sika's [Skoleni.io](https://skoleni.io).
 
 ## Usage
 
