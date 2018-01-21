@@ -81,11 +81,9 @@ Jsen online na:
 - [Twitter](https://twitter.com/ondrejsika)
 - [Github](https://github.com/ondrejsika)
 
-Více kontaktu na mě najdete na mém webu na stránce [kontakt](https://ondrejsika.com/contact.html).
-
 ## Novinky
 
-Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://go.bysika.cz/newsletter).
+Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://sika.link/newsletter).
 
-Nebo můžete sledovat [Facebook](https://facebook.com/skolenigit) a [Twitter](https://twitter.com/skolenigit).
+Nebo můžete sledovat vsechny moje kurzy na [Facebook](https://sika.link/fb-skoleniio) a [Twitter](https://twitter.com/skoleniio).
 
