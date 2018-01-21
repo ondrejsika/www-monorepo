@@ -3,14 +3,6 @@ layout: default
 title: Školení GITu pro začátečníky
 ---
 
-<div class="header">
-    <center>
-        <h1>{{ page.title }}</h1>
-        <a href="https://goo.gl/forms/A8diX53iSv2AyjAu1" class="btn btn-large btn-success">Objednat školení</a>
-    </center>
-</div>
-
-
 ## Obsah kurzu
 
 Kurz probíhá formou workshopu, vše si vyzkoušíte.

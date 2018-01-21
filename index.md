@@ -3,17 +3,6 @@ layout: default
 title: Školení Git
 ---
 
-<div class="header">
-    <center>
-        <h1>Školení Git</h1>
-        <span style="color: white;">by <a href="https://bysika.cz" style="color: white;"><b>Ondrej Sika</b></a> | <a href="https://skoleni.io" style="color: white;">Skoleni.io</a></span>
-        <br>
-        <br>
-        <a href="/registrace.html" class="btn btn-large btn-success">Objednat školení</a>
-        <a href="/#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
-    </center>
-</div>
-
 ## Aktualně vypsané termíny
 
 - [__Git__](https://sedu.cz/terminy/workshop-gitu-pro-zacatecniky-praha-05-02-2018.html) (pro začátečníky a mírně pokročilé) - 5. 2. 2018
