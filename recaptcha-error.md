@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Školení Docker
+title: Docker Training Europe
 ---
 
-## Recaptcha validace selhala
+## Recaption validation failed
 
-Google Vás omylem označil jako robota. Zkuste prosím [znovu](javascript:history.back()) a nebo napište email na <info@sedu.cz>.
+Google mark you as a bot. Try it [again](javascript:history.back()) or write me an email to <ondrej@ondrejsika.com>
 
 

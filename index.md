@@ -1,108 +1,82 @@
 ---
 layout: default
-title: Školení Docker
+title: Docker Training Europe
 ---
 
-## Aktualně vypsané termíny
-
-- [__Docker, Compose & Swarm__](https://sedu.cz/terminy/skoleni-dockeru-praha-29-01-2018.html?utm_source=skoleni-docker.cz) (pro začátečníky a mírně pokročilé, Praha, __29. - 30. 1. 2018__, cena: 8000 CZK
+## Actual Workshop
 
 
-[Registrujte se](/registrace.html). Pokud máte zájem o firemní školení nebo jiný termín, napiste na <ondrej@ondrejsika.com>.
-
-## Co je Docker
-
-Docker je kontejnerizační engine, který zajišťuje běh aplikací ve striktně definovaném a odděleném prostředí. Výhody používání Dockeru jsou plná kontrola nad prostředím každé aplikace (jedna může bězět na Debianu a druhá na Cent OS na jednom hostu) a také bezpečnost, protozě apliace vidí jen kontainer a to co jim povolíte (porty, filesystem, ... na hostu).
+| Course | | City | Date | Price | |
+__Docker, Compose & Swarm__ | beginners | Amsterdam | 14. - 15. 5. 2018 | 600 EUR | [register](/registration.html)
 
 
-## O mně
+## What is Docker
 
-Jmenuji se __Ondřej Šika__, vyvíjím software pro [Slush Pool](https://slushpool.com) a školím. Školím převážně Docker, [GIT a Continues Integraqtion](https://skoleni-git.cz), který s Dockerem velmi úzce souvisí. Další školení naleznete na mém profesním webu [bysika.cz](https://bysika.cz).
-
-<!--
-
-> "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací kurzu. Co se týká mne, tak školení padlo na úrodnou půdu. Těším se na další spolupráci."
->
-> __Bc. Ondřej Fous, DiS., Senior Developer in [EYELEVEL s.r.o.](http://eyelevel.com)__
-
--->
-
-Všechny kurzy vedu osobně. S Dockerem mám více než dva roky zkušeností v rámci komerčního vývoje softwaru. Docker používám jak ve vývoji, tak i
-na produkci a nedovedu si již bez něj práci představit.
-
-## Co Vás naučím
-
-Ve dvoudenním kurzu si projdeme tyto věci:
-
-- Co je Docker, jeho vlastnosti, výhody a nevýhody
-- Jak Docker nainstalovat a základní pojmy
-- Docker registry a spouštění kontajneru
-- Stavení vlastních obrazů
-- Ukážu jak spravovat multikontajnerove aplikace v Docker Compose
-- Docker Machine - nástroj na management Docker hostů
-- Docker Swarm - cluster pro Docker aplikace
-- Deployment aplikaci do Swarmu
-- Nastavit Docker pro produkční používání
-- Monitoring a správu kontejnerů
-- Základy využití v CI (Continues Itegration)
-
-## Jak školení probíhá
-
-Školení probíhá formou workshopu, vše si prakticky vyzkoušíte. Věřím, že praktické zkušenosti jsou to nejlepší, co si můžete z každého školení odnést. Školení probíhají buď v mé kanceláři, při velkém počtu zájemců ve školící místnosti. Při firemním školení samozřejmě mohu přijet k Vám do kanceláře.
-
-<!--
-
-> "Školení s panem Šikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Šikou jsme nadále v kontaktu pro případné dotazy nebo další školení."
->
-> __Lukáš Blažíček__
-
--->
-
-Všechny materiály z předchozích školení jsou volně k dispozici na [github.com/skoleni-docker](https://github.com/skoleni-docker) a na mém [Speakerdeck](https://speakerdeck.com/ondrejsika).
-
-Po absolvování školení obdržíte veřejně auditovatelný certifikát o účasti.
+Docker is container platfor which provide strictly defined and separated enviroment for run your application. Docker has many advantages, you have full control of environment of every part of your application. You can use somewhere Debian, otherwhere Cent OS, and host it on one server. Docker also provide security level to separate every application from one large system to many microservices on one host. Containers will se just what you grant them.
 
 
-## Cena
+## About me
 
-Cena dvoudenního kurzu je __8000 CZK__ na osobu, v případě firemních školení je to __15000 CZK__ za školící den. Na rozsahu kurzu se předem domluvíme, většinou trvá 3 dny.
+My name is __Ondrej Sika__ and I am a software engineer at [Slush Pool](https://slushpool.com) (Bitcoin mining) and I also do trainings and consulting. Most of time, I do Docker courses, but I also do Git & Gitlab trainings and Continues Integration. Those couses boost your productivity to maximum.
 
-__Studenti__, __univerzity__ a __neziskové organizace__ mají __50% slevu__.
+Every couses I do personally. I have more than 3 years of Docker experiences and I work with Docker on daily basis. I am using Docker in development, for testing and in production. I can not imagine working without it.
 
-Lze domluvit například skupinové slevy, ceny se za určitých okolností dají určitě nějak zvýhodnit. V případě zájmu nebo dotazů mě neváhejte kontaktovat.
+## Abstract of course
+
+In two days, we will learn:
+
+- What Docker is, why use Docker and it's advanages & disadvanages
+- How to install Docker and basic terminology
+- Docker registry and running containers
+- Building own images
+- Multi-container aplications and Docker Compose
+- Docker Machine - Docker host manager
+- Docker Swarm - Docker's native cluser
+- Deployment into the Swarm
+- Production setting of Docker
+- Container monitoring a management in production
+- Basic usage in CI (Continues Itegration)
+
+## About the training
+
+I think, the workshop is the best way how to learn something now. I beleve, the practical experience is the best you can learn, becouse every my trainings are workshops. Public workshops are located in meeting rooms of some local coworking spaces and I also do inhose workshops for companies. After training, you get an participation certificate.
+
+## Price
+
+Price of two day workhosp is __600 EUR__ per person, in case of you want in house trainings, write me email and I'll send you the pricing. I can suite couse agenda exactly to your company needs.
+
+__Students__, __Universities__ and __non-profit__ organisations have __50% discount__.
+
+If you are a group of people, you can write me email for some goup discount.
 
 
-## Mám zájem o školení
+## I am interested in training
 
-Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objednejte školení](/registrace.html).
+If you are interested, just write me email for more informations or just [__order training__](/registration.html).
 
 
-## Kontakt
+## Contact
 
 ### Ondrej Sika
 
 - <ondrej@ondrejsika.com>
-- <https://bysika.cz>
 - +420 773 452 376
 
-Najdete mě také na sociálních sítích:
+I am online at:
 
-- [Na volné noze](http://navolnenoze.cz/prezentace/ondrej-sika/)
 - [LinkedIn](https://www.linkedin.com/in/ondrejsika)
 - [Twitter](https://twitter.com/ondrejsika)
 - [Github](https://github.com/ondrejsika)
 
-Více kontaktů na mě najdete na mém webové stránce [kontakt](https://ondrejsika.com/contact.html).
 
-## Novinky
+## News & Newsletter
 
-Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://go.oxs.cz/newsletter-sedu).
+If you are interested in my courses and special offer [subscibe my newsletter](https://sika.link/newsletter-english).
 
-Nebo můžete sledovat [Facebook](https://facebook.com/seducz) a [Twitter](https://twitter.com/seducz).
+Also follow me on the Twitter [@ondrejsika](https://twitter.com/ondrejsika) or my event feed [@sikatrainings](https://twitter.com/sikatrainings).
 
 
-## Veřejné přednášky
+## Public talks
 
-Občas na téma Dockeru přednáším, seznam prednášek v sekci [/talks](/talks)
-
+Sometimes I do public taks, if you are an orginazer of some meetup, let me know, I can speek there.
 
