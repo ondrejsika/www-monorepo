@@ -20,8 +20,11 @@
     <body>
         {{ content }}
 
-        {% include analytics.html code='UA-39461955-7' %}
+        {% include google_analytics.html code='UA-39461955-11' %}
+        {% include gauges.html code='5a78d7ae0b3591119b00003e' %}
         {% include cookie_law.html %}
-        {% include leady.html code='4HkuP9U3lPoojyKu' %}
+        {% comment %}
+        {% include leady.html code='l780wjCw33rW40t3' %}
+        {% endcomment %}
     </body>
 </html>
