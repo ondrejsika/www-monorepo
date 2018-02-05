@@ -25,7 +25,7 @@ title: Register for a Docker training
 <textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
 </div>
 <div class="form-group">
-<div class="g-recaptcha" data-sitekey="6LfI-Q4UAAAAAM5WQs0Or6kKfzafTXAxzKQYKjxv"></div>
+<div class="g-recaptcha" data-sitekey="6LdEPxsUAAAAAMhB1wmR-GRfO_KdNWmCcpz7F7RX"></div>
 </div>
 <button type="submit" class="btn btn-default">Register</button>
 </form>
