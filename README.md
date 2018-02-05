@@ -1,10 +1,8 @@
-# [Skoleni Docker](https://skoleni-docker.cz)
+# [Docker Training Europe](https://docker-training.eu)
 
-Static website for [skoleni-docker.cz](https://skoleni-docker.cz).
+    Ondrej Sika <ondrej@ondrejsika.com>
 
-
-- author: Ondrej Sika <ondrej@ondrejsika.com>
-- license: [MIT](https://ondrejsika.com/license/mit.txt)
+Static website for [docker-training.eu](https://docker-training.eu).
 
 
 ## Usage
