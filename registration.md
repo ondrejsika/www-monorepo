@@ -6,7 +6,8 @@ title: Register for a Git training
 ## {{page.title}}
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<form action="https://former.sikaapp.cz/submit/23/ONtDoqRvaXHrpxUUBkKprNsIpJkvMKmL/">
+<form action="https://former.sikaapp.cz/submit/24/HWfuBUnJhQrbHPOhKmTNfEIoSdGSnEva/">
+<input type="hidden" name="site" value="git-training.eu">
 <input type="hidden" name="_redirect" value="https://docker-training.eu/registration-done.html">
 <div class="form-group">
 <label for="name">Name</label>
