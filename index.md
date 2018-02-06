@@ -3,7 +3,7 @@ layout: default
 title: Docker Training Europe
 ---
 
-## Actual Workshop
+## Actual Workshops
 
 
 | Course | | City | Date | Price | |
@@ -21,7 +21,7 @@ My name is __Ondrej Sika__ and I am a software engineer at [Slush Pool](https://
 
 Every couses I do personally. I have more than 3 years of Docker experiences and I work with Docker on daily basis. I am using Docker in development, for testing and in production. I can not imagine working without it.
 
-## Abstract of course
+## Course agenda
 
 In two days, we will learn:
 
