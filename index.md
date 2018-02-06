@@ -1,72 +1,57 @@
 ---
 layout: default
-title: Školení Git
+title: Git Training Europe by Ondrej Sika
 ---
 
-## Aktualně vypsané termíny
+## Next Courses
 
-- [__Git__](https://sedu.cz/terminy/workshop-gitu-pro-zacatecniky-praha-05-02-2018.html) (pro začátečníky a mírně pokročilé) - 5. 2. 2018
-- [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-06-02-2018.html) (pro mírně a středně pokročilé) - 6. 2. 2018
-
-Pokud metě zájem, [registrujte se](/registrace.html) nebo mi napište email na <ondrej@ondrejsika.com>
-
-<!--
-- [__Workshop Gitu pro začátečníky__, 21. 6. 2017](https://sedu.cz/terminy/2017-06-21-workshop-gitu-pro-zacatecniky.html)
--->
+| Course | | City | Date | Price | |
+__Git__ | beginners | Amsterdam | 16. 5. 2018 | 250 EUR | [register](/registration.html)
+__Gitlab & CI__ | beginners | Amsterdam | 17. 5. 2018 | 300 EUR | [register](/registration.html)
 
 
-## O mně
+## About me
 
-Jmenuji se [Ondrej Sika](https://ondrejsika.com) a školím GIT a ekosystém okolo GITu. Kromě GITu nabízím další školení, která můžete najít na mém profesním webu [bysika.cz](https://bysika.cz).
+My name is __Ondrej Sika__, I am a software engineer at [Slush Pool](https://slushpool.com) (Bitcoin mining) and do trainings and consulting of the Git and Git ecosystem (Gitlab, ...). I am also do another couses like Docker and CI (continues integration). I started my training career with Git, since then I have a lot of experiences with versioning and software project. I can help you boost your productivity to maximum.
 
-> "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
->
-> __Bc. Ondřej Fous, DiS., Senior Developer in [EYELEVEL s.r.o.](http://eyelevel.com)__
-
-Všechny kurzy vedu osobně. S GITem mám více než 5 let zkušeností v rámci komerčního vývoje software. Pracuji jako vývojář na několika globálních projektech, primárně na [Slush Pool](https://slushpool.com). Problematiku kolem verzování a vývoje software obecně školím více než 3 roky.
+Every couses I do personally. I have more than 7 years experience with Git and I use Git on daily basis. I use Git for large global project as well as my small thinks. I can not imagine working without it.
 
 
-## Co Vás naučím
+## Course Agenda
 
-Společnou řeč najdu jak se začátečníky, tak s pokročilými.
+In one day, you will learn:
 
-V kurzu pro začátečníky si řekneme co to vlastně verzování je a seznámíme se se základními příkazy a workflow GITu. GIT si nainstalujeme, nakonfigurujeme, případně si vytvoříme SSH klíče na práci se vzdálenými repozitáři. Ukážu Vám, jak v GITu pracovat s větvemi, stashem a dalšími jednoduchými konstrukty, které Vám v mnohém zpříjemní vývoj software. Naučím Vás pracovat s nástroji, jako je [Github](https://github.com) a nebo [Gitlab](https://gitlab.com).
-
-> "Konzultace nám ukázala nové možnosti jak s GITem efektivněji pracovat a zjednodušila nám mnoho dosavadních postupu"
->
-> __Ing. Vít Chmura, [WebNaut s.r.o.](http://webnaut.cz)__
-
-V pokročilém kurzu Vám ukážu další možnosti práce s kódem, složitější workflow a pokročilý refaktoring kódu. Řekneme si jak si nastavit procesy ve firmě pro efektivní vývoj software v teamu, ukážeme si výhody a nevýhody jednotlivých workflow a Vy sami se rozhodnete, co Vám vyhovuje nejvíce. Ukážu Vám, jak si spustit privátní [Gitlab](https://gitlab.com) instanci na vlastní infrastruktuře. V případě zájmu Vám ukážu základy CI (Continues Integration) a automatického testování.
-
-
-## Jak školení probíhá
-
-Školení probíhá buď u mě v kanceláři nebo mohu přijet k Vám. Na školení je potřeba vlastní notebook, na operačním systému nezáleží. GIT si společně nainstalujeme a nakonfigurujeme, pokud bude potřeba. Při školení si ukážeme všechny konstrukty na připravených ukázkových repozitářích, v případě zájmu na Vašem vlastním projektu. Vše si podrobně vysvětlíme a vyzkoušíme. Školení trvá zhruba 4 hodiny.
-
-> "Školení s panem Sikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Sikou jsme nadále v kontaktu pro případné dotazy nebo další školení."
->
-> __Lukáš Blažíček__
-
-Všechny materiály ze školení jsou volně k dispozici na [github.com/skoleni-git](https://github.com/skoleni-git) a na mém [Speakerdeck](https://speakerdeck.com/ondrejsika).
-
-Po absolvování školení obdržíte veřejně auditovatelný certifikát o účasti.
+- __Basic Overview__ - About me, Why do versioning, Why Git
+- __Installation__ & Configuration - Installation, Basic required configuration, Gitlab registration
+- __First commit__ - File stages, Repository status, Adding / Removing file, Commit
+- __One branch workflow__ - Changes (git diff), Repository status (detailed), Commit (detailed), Browsing history & changes
+- __Multiple branch workflow__ - Create branch, Switching branches, Rebasing branches, Merging branches, Removing, Renaming branches
+- __Working with the server__ - Clone repository from server, Add remote repository, Fetch changes from server, Push data to server
 
 
-## Cena
+## About the training
 
-Cena kurzu Gitu je __3500 CZK__ za osobu, cena Giltabu a CI je __4000 CZK__, v případě firemních školení mě kontaktujte pro nacenění.
+I think, the workshop is the best way how to learn something now. I beleve, the practical experience is the best you can learn, becouse every my trainings are workshops. Public workshops are located in meeting rooms of some local coworking spaces and I also do inhose workshops for companies. After training, you get an participation certificate.
 
-Studenti, univerzity a neziskovky mají __50% slevu__.
-
-Dají se domluvit například skupinové slevy, ceny se za určitých okolností dají určitě nějak zvýhodnit. V případě zájmu nebo dotazů mě neváhejte kontaktovat.
+Couse is focused to software developer who don't know Git. If you have used some other versioning tool like SVN, it is an advantige, not necessity.
 
 
-## Mám zájem o školení
+## Price
 
-Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objednejte školení](/registrace.html).
+Price of one day __Git__ course is  __250 EUR__ per person, price of one day  __Giltlab & CI__ course is __300 EUR__. For in-house courses, write me an email for price offer.
+
+Students, universities a non-profit organizations have  __50% discount__.
+
+If you are a group of people, you can write me email for some goup discount.
 
 
-## Kontakt
+## I am interested in training
+
+If you are interested, just write me email for more informations or just [__order training__](/registration.html).
+
+
+
+## Contact
 
 ### Ondrej Sika
 
@@ -74,16 +59,22 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 - <https://bysika.cz>
 - +420 773 452 376
 
-Jsen online na:
+I'm online at:
 
-- [Na volné noze](http://navolnenoze.cz/prezentace/ondrej-sika/)
 - [LinkedIn](https://www.linkedin.com/in/ondrejsika)
 - [Twitter](https://twitter.com/ondrejsika)
 - [Github](https://github.com/ondrejsika)
 
-## Novinky
 
-Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://sika.link/newsletter).
+## News & Newsletter
 
-Nebo můžete sledovat vsechny moje kurzy na [Facebook](https://sika.link/fb-skoleniio) a [Twitter](https://twitter.com/skoleniio).
+If you are interested in my courses and special offer [subscibe my newsletter](https://sika.link/newsletter-english).
+
+Also follow me on the Twitter [@ondrejsika](https://twitter.com/ondrejsika) or my event feed [@sikatrainings](https://twitter.com/sikatrainings).
+
+
+## Public talks
+
+Sometimes I do public taks, if you are an orginazer of some meetup, let me know, I can speek there.
+
 
