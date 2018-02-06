@@ -1,10 +1,8 @@
-# [Skoleni GIT](https://skoleni-git.cz)
+# [Git Training Europe](https://git-training.eu)
 
-Static website for [skoleni-git.cz](https://skoleni-git.cz).
+    Ondrej Sika <ondrej@ondrejsika.com>
 
-
-- author: Ondrej Sika <ondrej@ondrejsika.com>
-* license: [MIT](https://ondrejsika.com/license/mit.txt)
+Static website for [git-training,eu](https://git-training.eu).
 
 
 ## Usage
