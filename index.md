@@ -74,7 +74,7 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 - <https://bysika.cz>
 - +420 773 452 376
 
-Jsen online na:
+Jsem online na:
 
 - [Na volné noze](http://navolnenoze.cz/prezentace/ondrej-sika/)
 - [LinkedIn](https://www.linkedin.com/in/ondrejsika)
