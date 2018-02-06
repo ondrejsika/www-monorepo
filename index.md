@@ -9,6 +9,29 @@ title: Git Training Europe by Ondrej Sika
 __Git__ | beginners | Amsterdam | 16. 5. 2018 | 250 EUR | [register](/registration.html)
 __Gitlab & CI__ | beginners | Amsterdam | 17. 5. 2018 | 300 EUR | [register](/registration.html)
 
+## Where?
+
+I do trainings in United Kingdom, Netherlands, Germany and Czech Republic. For other location, just ask me via email.
+
+<div id="map" style="height: 400px"></div>
+
+<script>
+var map = L.map('map', {
+scrollWheelZoom: false,
+}).setView([50.92888955183838, 7.174072265625], 6);
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+}).addTo(map);
+
+L.marker([51.5, -0.09]).addTo(map)
+    .bindPopup('London');
+L.marker([52.35757707951721, 4.899599254131317]).addTo(map)
+    .bindPopup('Amsterdam');
+L.marker([52.51296977764328, 13.39156150817871]).addTo(map)
+    .bindPopup('Berlin');
+L.marker([50.08643296456263, 14.422903060913086]).addTo(map)
+    .bindPopup('Prague');
+</script>
 
 ## About me
 
