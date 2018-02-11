@@ -6,7 +6,7 @@ title: Školení GIT
 ## Registrace na školení
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<form action="https://former.sikaapp.cz/submit/1/KHbpyCBldmoBTMFJsABzUcpZqvRMjBkO/">
+<form action="https://former.xsika.cz/submit/1/KHbpyCBldmoBTMFJsABzUcpZqvRMjBkO/">
   <div class="form-group">
     <label for="name">Jméno</label>
     <input type="text" class="form-control" name="name" id="name" placeholder="Jmeno">
