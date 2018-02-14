@@ -5,6 +5,10 @@ title: Školení Continues Integration
 
 Continues Integration (CI) je velmi uzitecny nastroj, ktery umoznuje jednouse automatizovat testovani, buildy i nasazovani. Vsechno nastaveni CI je v jednom souboru verzovane v repozitati, mate vse prehledne pod kontrolou. Ci muze vyuzivat pro svuj beh Docker, muzete v nem nejen testovat Docker obrazy, muzete je v nem i skladat, publikovat (v pripade Gitlabu primo do interni registry) a nasazovat. CI vam usetri cas od rutijnich zalezitosti a budete mit vice casu venovat se vasemu jadru businessu.
 
+## Aktualně vypsané termíny
+
+- [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-19-06-2018.html?utm_source=bysika.cz) (pro mírně a středně pokročilé) - 19. 6. 2018
+
 
 ## CI platformy ktere skolim
 
