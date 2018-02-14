@@ -5,8 +5,9 @@ title: Školení Git
 
 ## Aktualně vypsané termíny
 
-- [__Git__](https://sedu.cz/terminy/workshop-gitu-pro-zacatecniky-praha-05-02-2018.html) (pro začátečníky a mírně pokročilé) - 5. 2. 2018
-- [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-06-02-2018.html) (pro mírně a středně pokročilé) - 6. 2. 2018
+- [__Git__](https://sedu.cz/terminy/workshop-gitu-pro-zacatecniky-praha-18-06-2018.html?utm_source=bysika.cz) (pro začátečníky a mírně pokročilé) - 18. 6. 2018
+- [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-19-06-2018.html?utm_source=bysika.cz) (pro mírně a středně pokročilé) - 19. 6. 2018
+
 
 Pokud metě zájem, [registrujte se](/registrace.html) nebo mi napište email na <ondrej@ondrejsika.com>
 
