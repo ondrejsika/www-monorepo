@@ -5,11 +5,15 @@ title: Školení Git
 
 ## Aktualně vypsané termíny
 
-- [__Git__](https://sedu.cz/terminy/workshop-gitu-pro-zacatecniky-praha-18-06-2018.html?utm_source=bysika.cz) (pro začátečníky a mírně pokročilé) - 18. 6. 2018
-- [__Gitlab a Continues Integration__](https://sedu.cz/terminy/gitlab-a-continues-integration-praha-19-06-2018.html?utm_source=bysika.cz) (pro mírně a středně pokročilé) - 19. 6. 2018
+<style>
+td {padding-bottom: 5px;}
+</style>
 
+| Kurz | | Mesto | Datum | Cena | |
+__Git__ | vyvojari | Praha | 18. 6. 2018 | 4 000 CZK | <a href="https://ondrej-sika.cz/blog/2018/skoleni-gitu-18-6-2018/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz" class="btn btn-success">Registrovat</a> |
+__Gitlab__ | vyvojari, projektaci, dev ops | Praha | 19. 6. 2018 | 5 000 CZK | <a href="https://ondrej-sika.cz/skoleni/gitlab/registrace/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz" class="btn btn-success">Registrovat</a> |
 
-Pokud metě zájem, [registrujte se](/registrace.html) nebo mi napište email na <ondrej@ondrejsika.com>
+Pokud metě zájem o skleni u vas ve firme, <a href="https://ondrej-sika.cz/skoleni/git/poptavka/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz" class="btn btn-large btn-success">nezávazně jej poptejte</a> nebo mi napište email na <ondrej@ondrejsika.com>
 
 <!--
 - [__Workshop Gitu pro začátečníky__, 21. 6. 2017](https://sedu.cz/terminy/2017-06-21-workshop-gitu-pro-zacatecniky.html)
@@ -18,13 +22,13 @@ Pokud metě zájem, [registrujte se](/registrace.html) nebo mi napište email na
 
 ## O mně
 
-Jmenuji se [Ondrej Sika](https://ondrejsika.com) a školím GIT a ekosystém okolo GITu. Kromě GITu nabízím další školení, která můžete najít na mém profesním webu [bysika.cz](https://bysika.cz).
+Jmenuji se __Ondrej Sika__ a školím GIT a ekosystém okolo GITu. Kromě GITu nabízím další školení, která můžete najít na mém profesním webu [ondrej-sika.cz](https://ondrej-sika.cz?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz).
 
 > "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
 >
 > __Bc. Ondřej Fous, DiS., Senior Developer in [EYELEVEL s.r.o.](http://eyelevel.com)__
 
-Všechny kurzy vedu osobně. S GITem mám více než 5 let zkušeností v rámci komerčního vývoje software. Pracuji jako vývojář na několika globálních projektech, primárně na [Slush Pool](https://slushpool.com). Problematiku kolem verzování a vývoje software obecně školím více než 3 roky.
+Všechny kurzy vedu osobně. S GITem mám více než 5 let zkušeností v rámci komerčního vývoje software. Pracuji jako vývojář na několika globálních projektech, primárně na __Slush Pool__. Problematiku kolem verzování a vývoje software obecně školím více než 3 roky.
 
 
 ## Co Vás naučím
@@ -55,7 +59,7 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 ## Cena
 
-Cena kurzu Gitu je __3500 CZK__ za osobu, cena Giltabu a CI je __4000 CZK__, v případě firemních školení mě kontaktujte pro nacenění.
+Cena kurzu Gitu je __3500 CZK__ za osobu, cena Gitlabu a CI je __4000 CZK__, v případě firemních školení mě kontaktujte pro nacenění.
 
 Studenti, univerzity a neziskovky mají __50% slevu__.
 
@@ -72,19 +76,16 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 ### Ondrej Sika
 
 - <ondrej@ondrejsika.com>
-- <https://bysika.cz>
+- [ondrej-sika.cz](https://ondrej-sika.cz/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz)
 - +420 773 452 376
 
-Jsem online na:
-
-- [Na volné noze](http://navolnenoze.cz/prezentace/ondrej-sika/)
-- [LinkedIn](https://www.linkedin.com/in/ondrejsika)
-- [Twitter](https://twitter.com/ondrejsika)
-- [Github](https://github.com/ondrejsika)
 
 ## Novinky
 
 Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://sika.link/newsletter).
 
-Nebo můžete sledovat vsechny moje kurzy na [Facebook](https://sika.link/fb-skoleniio) a [Twitter](https://twitter.com/skoleniio).
+Nebo můžete sledovat vsechny moje kurzy na [Facebook](https://facebook.com/skoleniio) a [Twitter](https://twitter.com/skoleniio).
+
+
+<center style="margin: 30px 0 40px"><a href="https://ondrej-sika.cz/skoleni/git/poptavka/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz" class="btn btn-lg btn-success">Nezavazne poptat skoleni Gitu</a></center>
 
