@@ -11,7 +11,7 @@ td {padding-bottom: 5px;}
 
 | Kurz | | Mesto | Datum | Cena | |
 __Git__ | vyvojari | Praha | 18. 6. 2018 | 4 000 CZK | <a href="https://ondrej-sika.cz/blog/2018/skoleni-gitu-18-6-2018/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz" class="btn btn-success">Registrovat</a> |
-__Gitlab__ | vyvojari, projektaci, dev ops | Praha | 19. 6. 2018 | 5 000 CZK | <a href="https://ondrej-sika.cz/skoleni/gitlab/registrace/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz" class="btn btn-success">Registrovat</a> |
+__Gitlab__ | vyvojari, projektaci, dev ops | Praha | 19. 6. 2018 | 4 000 CZK | <a href="https://ondrej-sika.cz/skoleni/gitlab/registrace/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz" class="btn btn-success">Registrovat</a> |
 
 Pokud metě zájem o skleni u vas ve firme, <a href="https://ondrej-sika.cz/skoleni/git/poptavka/?x_sika_source=skoleni-git.cz&utm_source=skoleni-git.cz" class="btn btn-large btn-success">nezávazně jej poptejte</a> nebo mi napište email na <ondrej@ondrejsika.com>
 
@@ -59,7 +59,7 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 ## Cena
 
-Cena kurzu Gitu je __3500 CZK__ za osobu, cena Gitlabu a CI je __4000 CZK__, v případě firemních školení mě kontaktujte pro nacenění.
+Cena kurzu Gitu je __4 000 CZK__ za osobu, v případě firemních školení mě kontaktujte pro nacenění.
 
 Studenti, univerzity a neziskovky mají __50% slevu__.
 
