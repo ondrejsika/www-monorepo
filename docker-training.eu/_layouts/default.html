@@ -1,0 +1,62 @@
+---
+layout: base
+---
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-md-offset-2">
+
+<style>
+.header {
+    background: url(/static/d.png) #E7E7E7 right no-repeat;
+    padding: 40px 0;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+
+h1 {
+    color: #394D54;
+}
+
+.site-header a:hover{
+    color: #394D54;
+}
+
+h2 {
+    background: #E7E7E7;
+    padding: 10px;
+    color: #394D54;
+}
+
+blockquote {
+    font-size: 14px;
+}
+</style>
+
+<p style="text-align: right; margin-top: 10px;">
+<a href="https://sikasw.com">sikasw.com</a>
+{% comment %}
+| <a href="https://git-training.eu">git-training.eu</a>
+| <a href="https://gitlab-training.eu">gitlab-training.eu</a>
+| <a href="https://ci-training.eu">ci-training.eu</a>
+{% endcomment %}
+</p>
+
+<div class="header">
+    <span class="site-header"><a href="/"><h1 style="margin-bottom: 0;">{% if page.header_title %}{{page.header_title}}{% else %}Docker Training Europe{% endif %}</h1></a></span>
+    <p style="color: #394D54">by <a href="https://sikasw.com"><b>Ondrej Sika</b></a><!-- | <a href="https://skoleni.io">Skoleni.io</a> --></p>
+    <a href="/registration.html" class="btn btn-large btn-info">Register for a training</a>
+    <a href="/#contact" class="btn btn-large btn-info">Contact me</a>
+</div>
+
+{{ content }}
+
+<hr />
+
+<p style="font-size: 0.7em; text-align: right;">This is an <a href="https://ondrejsika.com" style="font-size: 1em;">Ondrej Sika</a>'s project.</p>
+
+</div>
+</div>
+</div>
+
